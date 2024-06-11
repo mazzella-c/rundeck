@@ -1,5 +1,5 @@
 # original https://hub.docker.com/r/bwits/rundeck-build/
-FROM centos:6
+FROM centos:8
 MAINTAINER Bill W
 RUN rpm -Uvh  http://dl.fedoraproject.org/pub/epel/6/x86_64/epel-release-6-8.noarch.rpm
 RUN yum -y update

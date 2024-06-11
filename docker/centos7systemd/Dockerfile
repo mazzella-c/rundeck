@@ -1,5 +1,5 @@
 # from https://hub.docker.com/_/centos/
-FROM centos:7
+FROM centos:8
 ENV container docker
 RUN (cd /lib/systemd/system/sysinit.target.wants/; for i in *; do [ $i == \
 systemd-tmpfiles-setup.service ] || rm -f $i; done); \
