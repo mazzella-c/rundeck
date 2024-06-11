@@ -33,7 +33,7 @@
     "knockout": "3.5.1",
     "knockout-mapping": "2.6.0",
     "perfect-scrollbar": "1.5.5",
-    "vue": "3.3.2",
+    "vue": "3.4.27",
     "vuex": "^4.1.0",
     "webpack": "^5.90.3",
     "webpack-cli": "^5.1.4"
