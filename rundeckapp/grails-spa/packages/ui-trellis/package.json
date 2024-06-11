@@ -84,7 +84,7 @@
     "@storybook/testing-library": "^0.2.2",
     "@storybook/vue3": "^8.0.4",
     "@storybook/vue3-webpack5": "^8.0.4",
-    "@testing-library/dom": "^9.3.4",
+    "@testing-library/dom": "^10.0.0",
     "@types/jest": "^29.5.12",
     "@types/node": "^14.0.13",
     "@types/uuid": "^8.3.0",
