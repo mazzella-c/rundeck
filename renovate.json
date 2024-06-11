@@ -1,8 +1,1 @@
-"packageRules": [
-  {
-    "description": "Automatically merge minor and patch-level updates",
-    "matchUpdateTypes": ["minor", "major", "patch", "digest"],
-    "automerge": true,
-    "automergeType": "branch"
-  }
-]
+
