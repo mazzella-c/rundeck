@@ -32,7 +32,7 @@
     "jquery-ui-timepicker-addon": "^1.6.3",
     "knockout": "3.5.1",
     "knockout-mapping": "2.6.0",
-    "perfect-scrollbar": "1.5.0",
+    "perfect-scrollbar": "1.5.5",
     "vue": "3.3.2",
     "vuex": "^4.1.0",
     "webpack": "^5.90.3",
