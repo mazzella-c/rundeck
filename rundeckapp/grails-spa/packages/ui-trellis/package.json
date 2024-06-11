@@ -99,7 +99,7 @@
     "babel-jest": "^29.7.0",
     "babel-loader": "^8.3.0",
     "concurrently": "^7.0.0",
-    "css-loader": "^6.10.0",
+    "css-loader": "^7.0.0",
     "cssnano": "^5.1.14",
     "cssnano-preset-default": "^5.2.13",
     "eslint": "^8.56.0",
