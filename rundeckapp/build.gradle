@@ -150,7 +150,7 @@ dependencies {
 
     implementation 'com.atlassian.commonmark:commonmark:0.17.0'
     implementation 'com.atlassian.commonmark:commonmark-ext-gfm-tables:0.17.0'
-    implementation ('com.googlecode.owasp-java-html-sanitizer:owasp-java-html-sanitizer:20211018.2'){
+    implementation ('com.googlecode.owasp-java-html-sanitizer:owasp-java-html-sanitizer:20240325.1'){
         exclude(group:'com.google.guava',module:'guava')
     }
     implementation 'org.owasp.encoder:encoder:1.2.3'
