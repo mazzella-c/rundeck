@@ -80,7 +80,7 @@ dependencies {
     testImplementation "org.grails:grails-gorm-testing-support"
     testImplementation "org.mockito:mockito-core"
     testImplementation "org.grails:grails-web-testing-support"
-    testImplementation "cglib:cglib:2.2.2"
+    testImplementation "cglib:cglib:3.3.0"
 }
 
 bootRun {
