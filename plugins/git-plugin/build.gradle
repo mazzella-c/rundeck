@@ -48,7 +48,7 @@ dependencies {
         exclude module: 'slf4j-api'
         exclude group: 'org.bouncycastle'
     }
-    implementation 'org.slf4j:slf4j-api:1.7.36'
+    implementation 'org.slf4j:slf4j-api:2.0.13'
     implementation "org.codehaus.groovy:groovy:${groovyVersion}"
     implementation group: 'com.hierynomus', name: 'sshj', version: '0.38.0'
     implementation group: 'com.hierynomus', name: 'asn-one', version: '0.6.0'

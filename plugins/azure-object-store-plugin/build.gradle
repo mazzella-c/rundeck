@@ -37,7 +37,7 @@ dependencies {
     testImplementation "org.testcontainers:testcontainers:1.19.8"
     testImplementation "cglib:cglib-nodep:3.3.0"
     testImplementation 'org.objenesis:objenesis:1.4'
-    testImplementation "org.slf4j:slf4j-simple:1.7.36"
+    testImplementation "org.slf4j:slf4j-simple:2.0.13"
     testImplementation "org.codehaus.groovy:groovy-all:${groovyVersion}"
     testImplementation "org.spockframework:spock-core:${spockVersion}"
 
