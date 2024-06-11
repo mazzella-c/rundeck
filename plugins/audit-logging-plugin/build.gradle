@@ -41,7 +41,7 @@ repositories {
 dependencies {
     implementation project(":core")
     implementation "org.codehaus.groovy:groovy:${groovyVersion}"
-    implementation 'org.slf4j:slf4j-api:1.7.36'
+    implementation 'org.slf4j:slf4j-api:2.0.13'
 }
 
 
