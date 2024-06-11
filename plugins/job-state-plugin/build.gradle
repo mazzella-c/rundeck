@@ -27,7 +27,7 @@ apply from: "../../gradle/java-version.gradle"
 
 dependencies{
 
-    testImplementation 'junit:junit:4.8.1',
+    testImplementation 'junit:junit:4.13.2',
                 'org.mockito:mockito-all:1.10.19'
 
     testImplementation "org.codehaus.groovy:groovy-all:${groovyVersion}"
