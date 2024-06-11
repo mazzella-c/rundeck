@@ -139,7 +139,7 @@ dependencies {
 
     // From BuildConfig.groovy.
     implementation 'org.quartz-scheduler:quartz:2.3.2'
-    implementation 'org.grails.plugins:quartz:2.0.13'
+    implementation 'org.grails.plugins:quartz:3.0.0'
     implementation 'org.grails.plugins:mail:4.0.0'
 
     implementation 'org.springframework.cloud:spring-cloud-context:3.1.8'
