@@ -64,7 +64,7 @@ dependencies {
                 'org.mockito:mockito-all:1.10.19'
 
     testImplementation "org.codehaus.groovy:groovy-all:${groovyVersion}"
-    testImplementation "cglib:cglib-nodep:2.2.2"
+    testImplementation "cglib:cglib-nodep:3.3.0"
     testImplementation "org.spockframework:spock-core:${spockVersion}"
 
     testImplementation( 'org.eclipse.jgit:org.eclipse.jgit:6.9.0.202403050737-r')

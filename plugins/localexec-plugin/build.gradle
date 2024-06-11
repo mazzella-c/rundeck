@@ -38,7 +38,7 @@ dependencies {
 
     testImplementation "org.codehaus.groovy:groovy-all:${groovyVersion}"
     testImplementation "org.spockframework:spock-core:${spockVersion}"
-    testImplementation "cglib:cglib-nodep:2.2.2"
+    testImplementation "cglib:cglib-nodep:3.3.0"
 }
 
 tasks.withType(Test) {

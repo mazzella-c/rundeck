@@ -35,7 +35,7 @@ dependencies {
     testImplementation "org.spockframework:spock-core:${spockVersion}"
     testImplementation "com.squareup.okhttp3:mockwebserver:${okhttpVersion}"
     testImplementation "org.testcontainers:testcontainers:1.19.8"
-    testImplementation "cglib:cglib-nodep:3.2.5"
+    testImplementation "cglib:cglib-nodep:3.3.0"
     testImplementation 'org.objenesis:objenesis:1.4'
     testImplementation "org.slf4j:slf4j-simple:1.7.36"
     testImplementation "org.codehaus.groovy:groovy-all:${groovyVersion}"
