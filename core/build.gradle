@@ -79,7 +79,7 @@ dependencies {
         'commons-collections:commons-collections:3.2.2',
         'commons-lang:commons-lang:2.6',
         'jaxen:jaxen:1.2.0',
-        'commons-cli:commons-cli:1.0',
+        'commons-cli:commons-cli:1.8.0',
         'org.apache.ant:ant-jsch:1.10.14',
         'com.jcraft:jsch:0.1.55',
         'com.jcraft:jsch.agentproxy.jsch:0.0.9',
