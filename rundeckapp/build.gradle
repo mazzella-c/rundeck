@@ -166,7 +166,7 @@ dependencies {
     implementation "org.hibernate:hibernate-core:${hibernateVersion}"
 
     implementation( "org.hibernate:hibernate-jcache:${hibernateVersion}")
-    implementation('org.ehcache:ehcache:3.8.1')
+    implementation('org.ehcache:ehcache:3.10.8')
 
     implementation ('org.hibernate:hibernate-validator:6.2.5.Final')
     implementation ('org.hibernate.validator:hibernate-validator:6.2.5.Final')
