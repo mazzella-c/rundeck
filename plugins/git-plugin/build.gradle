@@ -40,7 +40,7 @@ repositories {
 
 dependencies {
     implementation project(":core")
-    pluginLibs( "org.eclipse.jgit:org.eclipse.jgit:6.9.0.202403050737-r") {
+    pluginLibs( "org.eclipse.jgit:org.eclipse.jgit:6.10.0.202406032230-r") {
         exclude module: 'slf4j-api'
         exclude group: 'org.bouncycastle'
     }
@@ -67,7 +67,7 @@ dependencies {
     testImplementation "cglib:cglib-nodep:3.3.0"
     testImplementation "org.spockframework:spock-core:${spockVersion}"
 
-    testImplementation( 'org.eclipse.jgit:org.eclipse.jgit:6.9.0.202403050737-r')
+    testImplementation( 'org.eclipse.jgit:org.eclipse.jgit:6.10.0.202406032230-r')
 }
 
 
