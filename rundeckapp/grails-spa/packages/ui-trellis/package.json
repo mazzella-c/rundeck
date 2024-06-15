@@ -139,7 +139,7 @@
   "peerDependencies": {
     "@rundeck/client": "^0.2.5",
     "ace-builds": "^1.23.4",
-    "mobx": "^5.15.4",
+    "mobx": "^5.15.4 || ^6.0.0",
     "mobx-utils": "^5.6.1",
     "prex": "^0.4.7"
   },
